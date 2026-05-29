@@ -1,0 +1,2615 @@
+{
+  "meta": {
+    "year": 2026,
+    "month": 5,
+    "parsed_at": "2026-05-29T12:58:41Z"
+  },
+  "stores": [
+    {
+      "id": 1,
+      "name": "やさい食堂 イチマルイチ",
+      "building": "10号館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "11:00",
+          "close_time": "15:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-02": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-03": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": false
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-09": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-10": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-16": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-17": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-23": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-24": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-30": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "ふじカツ",
+      "building": "並楽館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "11:30",
+          "close_time": "14:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:30"
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "らーめん壱馬力",
+      "building": "並楽館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "11:00",
+          "close_time": "19:00"
+        },
+        {
+          "days": [
+            "sat"
+          ],
+          "open_time": "11:00",
+          "close_time": "14:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-02": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-03": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-06": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "19:00"
+        },
+        "2026-05-07": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "15:00"
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-09": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-10": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-13": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "19:00"
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-16": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-17": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-20": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "19:00"
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-23": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-24": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-27": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "19:00"
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-30": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "cosmic bakery cafe",
+      "building": "並楽館 2F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "11:30",
+          "close_time": "13:30"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": false
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": false
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": false
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": false
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": false
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "13:30"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "MIYAKO製麺",
+      "building": "並楽館 2F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "11:00",
+          "close_time": "14:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:30"
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "LIBRE(リブレ)",
+      "building": "並楽館 3F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "11:30",
+          "close_time": "14:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:30"
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "むすびキッチン",
+      "building": "雄飛館 2F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "11:30",
+          "close_time": "14:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "11:30",
+          "close_time": "14:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "すき家",
+      "building": "真理館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        {
+          "days": [
+            "sat"
+          ],
+          "open_time": "10:00",
+          "close_time": "15:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-02": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "15:00"
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-06": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-07": {
+          "open": false
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-09": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "15:00"
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-13": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-16": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "15:00"
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-20": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-23": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "15:00"
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-27": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "19:00"
+        },
+        "2026-05-30": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "15:00"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "キッチンサン",
+      "building": "真理館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "11:00",
+          "close_time": "14:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": false
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "14:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "どうとんぼり神座",
+      "building": "真理館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "11:00",
+          "close_time": "17:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": false
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "11:00",
+          "close_time": "17:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "ブックセンター Ascella(アスケラ)",
+      "building": "雄飛館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "8:45",
+          "close_time": "17:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": false
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "8:45",
+          "close_time": "17:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "ファミリーマート",
+      "building": "並楽館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        {
+          "days": [
+            "wed"
+          ],
+          "open_time": "8:00",
+          "close_time": "18:00"
+        },
+        {
+          "days": [
+            "sat"
+          ],
+          "open_time": "8:00",
+          "close_time": "17:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-02": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-06": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "18:00"
+        },
+        "2026-05-07": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "15:00"
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-09": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-13": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "18:00"
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-16": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-20": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "18:00"
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-23": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-27": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "18:00"
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-30": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "丸善 M's style",
+      "building": "天地館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "10:00",
+          "close_time": "17:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "15:00"
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "丸善 パソコンプロショップ",
+      "building": "天地館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "10:00",
+          "close_time": "18:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": false
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "18:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "学生情報センター (ナジック)",
+      "building": "天地館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat"
+          ],
+          "open_time": "10:00",
+          "close_time": "17:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-02": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-06": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-07": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-09": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-13": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-16": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-20": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-23": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-27": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        },
+        "2026-05-30": {
+          "open": true,
+          "open_time": "10:00",
+          "close_time": "17:00"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name": "ファミリーマート",
+      "building": "天地館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        {
+          "days": [
+            "wed"
+          ],
+          "open_time": "8:00",
+          "close_time": "18:00"
+        },
+        {
+          "days": [
+            "sat"
+          ],
+          "open_time": "8:00",
+          "close_time": "17:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-02": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "15:00"
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-09": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-16": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-23": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "19:00"
+        },
+        "2026-05-30": {
+          "open": true,
+          "open_time": "8:00",
+          "close_time": "17:00"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "name": "ファミリーマート",
+      "building": "本山寮",
+      "hours": [
+        {
+          "days": [
+            "sun",
+            "mon"
+          ],
+          "open_time": "6:00",
+          "close_time": "22:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true
+        },
+        "2026-05-02": {
+          "open": true
+        },
+        "2026-05-03": {
+          "open": true,
+          "open_time": "6:00",
+          "close_time": "22:00"
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "6:00",
+          "close_time": "22:00"
+        },
+        "2026-05-05": {
+          "open": true
+        },
+        "2026-05-06": {
+          "open": true
+        },
+        "2026-05-07": {
+          "open": true
+        },
+        "2026-05-08": {
+          "open": true
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true,
+          "open_time": "6:00",
+          "close_time": "22:00"
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "6:00",
+          "close_time": "22:00"
+        },
+        "2026-05-12": {
+          "open": true
+        },
+        "2026-05-13": {
+          "open": true
+        },
+        "2026-05-14": {
+          "open": true
+        },
+        "2026-05-15": {
+          "open": true
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true,
+          "open_time": "6:00",
+          "close_time": "22:00"
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "6:00",
+          "close_time": "22:00"
+        },
+        "2026-05-19": {
+          "open": true
+        },
+        "2026-05-20": {
+          "open": true
+        },
+        "2026-05-21": {
+          "open": true
+        },
+        "2026-05-22": {
+          "open": true
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true,
+          "open_time": "6:00",
+          "close_time": "22:00"
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "6:00",
+          "close_time": "22:00"
+        },
+        "2026-05-26": {
+          "open": true
+        },
+        "2026-05-27": {
+          "open": true
+        },
+        "2026-05-28": {
+          "open": true
+        },
+        "2026-05-29": {
+          "open": true
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name": "CAFE KSUKSU",
+      "building": "むすび わざ館 1F",
+      "hours": [
+        {
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open_time": "12:00",
+          "close_time": "13:00"
+        }
+      ],
+      "schedule": {
+        "2026-05-01": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-02": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:10"
+        },
+        "2026-05-03": {
+          "open": true
+        },
+        "2026-05-04": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-05": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-06": {
+          "open": false
+        },
+        "2026-05-07": {
+          "open": false
+        },
+        "2026-05-08": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-09": {
+          "open": true
+        },
+        "2026-05-10": {
+          "open": true
+        },
+        "2026-05-11": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-12": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-13": {
+          "open": false
+        },
+        "2026-05-14": {
+          "open": false
+        },
+        "2026-05-15": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-16": {
+          "open": true
+        },
+        "2026-05-17": {
+          "open": true
+        },
+        "2026-05-18": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-19": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-20": {
+          "open": false
+        },
+        "2026-05-21": {
+          "open": false
+        },
+        "2026-05-22": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-23": {
+          "open": true
+        },
+        "2026-05-24": {
+          "open": true
+        },
+        "2026-05-25": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-26": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-27": {
+          "open": false
+        },
+        "2026-05-28": {
+          "open": false
+        },
+        "2026-05-29": {
+          "open": true,
+          "open_time": "12:00",
+          "close_time": "13:00"
+        },
+        "2026-05-30": {
+          "open": true
+        }
+      }
+    }
+  ]
+}
