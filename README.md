@@ -5,6 +5,8 @@
 これは京都産業大学の食堂の営業時間をまとめたデータセットです。
 食堂の営業時間PDFをパースし、JSONに整形してから公開しています。
 
+このリポジトリで提供している情報は非公式なものです。正確な情報は、[学生食堂 | 京都産業大学](https://www.kyoto-su.ac.jp/campus/welfare/)から取得してください。
+
 ### Usage
 データを使うには、以下の形式のUrlにアクセスします。
 
@@ -12,7 +14,7 @@
 https://taiseiue.github.io/ksu-cafeteria-dataset/data/YYYY-MM.json
 ```
 
-たとえば、2026年5月のデータを取得するには、以下のUrlにアクセスしましょう。
+たとえば、2026年5月のデータを取得するには、以下のUrlにアクセスします。
 
 ```
 https://taiseiue.github.io/ksu-cafeteria-dataset/data/2026-05.json
